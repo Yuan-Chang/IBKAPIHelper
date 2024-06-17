@@ -1614,3 +1614,2010 @@ java.net.SocketException: Connection reset
 -> GET /v1/api/tickle,200|126ms
 -> request: /v1/api/tickle
 -> GET /v1/api/tickle,200|125ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|123ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|138ms
+-> request: /sso/ping
+-> GET /sso/ping,200|155ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|203ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|148ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|133ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|116ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|119ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|121ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|115ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|116ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|133ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|125ms
+-> request: /sso/ping
+-> GET /sso/ping,200|134ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|188ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|116ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|116ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|127ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|117ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|140ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|128ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|119ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|127ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|202ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> request: /sso/ping
+-> GET /sso/ping,200|116ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|257ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|118ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|125ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|174ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|117ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|112ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|198ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|137ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|150ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|137ms
+-> request: /sso/ping
+-> GET /sso/ping,200|137ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|111ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|119ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|116ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|129ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|118ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|189ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|117ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|152ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|126ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|122ms
+-> request: /sso/ping
+-> GET /sso/ping,200|150ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|129ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|116ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|119ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|208ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|127ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|139ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|229ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|109ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|129ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|123ms
+-> request: /sso/ping
+-> GET /sso/ping,200|117ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|127ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|138ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|133ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|162ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|113ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|127ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|388ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|142ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|178ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|772ms
+-> request: /sso/ping
+-> GET /sso/ping,200|124ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|125ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|151ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|139ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|121ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|115ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|164ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|134ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|236ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|169ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|120ms
+-> request: /sso/ping
+-> GET /sso/ping,200|217ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|145ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|110ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|133ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|153ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|159ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|143ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|114ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|139ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|121ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|120ms
+-> request: /sso/ping
+-> GET /sso/ping,200|119ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|150ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|188ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|139ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|146ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|124ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|233ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|110ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|165ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|180ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|155ms
+-> request: /sso/ping
+-> GET /sso/ping,200|153ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|120ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|145ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|461ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|126ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|151ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|153ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|144ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|140ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|128ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|207ms
+-> request: /sso/ping
+-> GET /sso/ping,200|139ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|126ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|125ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|133ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|128ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|123ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|120ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|124ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|157ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|181ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|132ms
+-> request: /sso/ping
+-> GET /sso/ping,200|112ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|122ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|139ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|130ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|117ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|202ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|119ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|126ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|220ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|115ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|141ms
+-> request: /sso/ping
+-> GET /sso/ping,200|108ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|792ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|133ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|119ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|129ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|117ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|114ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|131ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|137ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|113ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|122ms
+-> request: /sso/ping
+-> GET /sso/ping,200|115ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|119ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|113ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|122ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|140ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|196ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|126ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|116ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|203ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|129ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|126ms
+-> request: /sso/ping
+-> GET /sso/ping,200|225ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|128ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|120ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|116ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> POST /v1/api/iserver/account/U8494690/orders
+<- 200 POST /v1/api/iserver/account/U8494690/orders
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|113ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|119ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> POST /v1/api/iserver/account/U8494690/orders
+<- 200 POST /v1/api/iserver/account/U8494690/orders
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|156ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|192ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|139ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|145ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|125ms
+-> request: /sso/ping
+-> GET /sso/ping,200|124ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|120ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|114ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|119ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|123ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|136ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|144ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|129ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|120ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|175ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|124ms
+-> request: /sso/ping
+-> GET /sso/ping,200|107ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|150ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|231ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|114ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|225ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|119ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|334ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|131ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> POST /v1/api/iserver/account/U8494690/orders
+<- 200 POST /v1/api/iserver/account/U8494690/orders
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|114ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> POST /v1/api/iserver/account/U8494690/orders
+<- 200 POST /v1/api/iserver/account/U8494690/orders
+-> POST /v1/api/iserver/reply/fb188e44-2762-459f-baa3-df66d014e76e
+<- 200 POST /v1/api/iserver/reply/fb188e44-2762-459f-baa3-df66d014e76e
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|112ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|146ms
+-> request: /sso/ping
+-> GET /sso/ping,200|133ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|227ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|118ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> POST /v1/api/iserver/account/U8494690/orders
+<- 200 POST /v1/api/iserver/account/U8494690/orders
+-> POST /v1/api/iserver/reply/47eb7282-335c-44f9-808e-11ad45fa6af3
+<- 200 POST /v1/api/iserver/reply/47eb7282-335c-44f9-808e-11ad45fa6af3
+-> POST /v1/api/iserver/reply/57d21478-7588-4976-b4d5-f199d03fea73
+<- 200 POST /v1/api/iserver/reply/57d21478-7588-4976-b4d5-f199d03fea73
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|138ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|123ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|127ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|151ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|129ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|112ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|121ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|135ms
+-> request: /sso/ping
+-> GET /sso/ping,200|117ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|133ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|117ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|118ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|112ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|125ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> POST /v1/api/iserver/account/U8494690/orders
+<- 200 POST /v1/api/iserver/account/U8494690/orders
+-> POST /v1/api/iserver/reply/7840c1a1-e407-4dc2-aa77-320d334c3227
+<- 200 POST /v1/api/iserver/reply/7840c1a1-e407-4dc2-aa77-320d334c3227
+-> POST /v1/api/iserver/reply/674b0311-ba85-4c83-97ec-21715670d49a
+<- 200 POST /v1/api/iserver/reply/674b0311-ba85-4c83-97ec-21715670d49a
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|118ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|172ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> POST /v1/api/iserver/account/U8494690/orders
+<- 200 POST /v1/api/iserver/account/U8494690/orders
+-> POST /v1/api/iserver/reply/9c94f1f4-36ad-47bc-8643-5f2171f735bc
+<- 200 POST /v1/api/iserver/reply/9c94f1f4-36ad-47bc-8643-5f2171f735bc
+-> POST /v1/api/iserver/reply/abc0bb31-fb67-4741-9f41-39f508605339
+<- 200 POST /v1/api/iserver/reply/abc0bb31-fb67-4741-9f41-39f508605339
+-> DELETE /v1/api/iserver/account/U8494690/order/2044823655
+<- 200 DELETE /v1/api/iserver/account/U8494690/order/2044823655
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|131ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|137ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|141ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> POST /v1/api/iserver/account/U8494690/orders
+<- 200 POST /v1/api/iserver/account/U8494690/orders
+-> POST /v1/api/iserver/reply/58d930a8-d4b0-463b-98d8-06d91b0879ff
+<- 200 POST /v1/api/iserver/reply/58d930a8-d4b0-463b-98d8-06d91b0879ff
+-> POST /v1/api/iserver/reply/360bbd27-96c3-4f48-b2bf-a76137a27ac3
+<- 200 POST /v1/api/iserver/reply/360bbd27-96c3-4f48-b2bf-a76137a27ac3
+-> DELETE /v1/api/iserver/account/U8494690/order/2044823656
+<- 200 DELETE /v1/api/iserver/account/U8494690/order/2044823656
+-> request: /sso/ping
+-> GET /sso/ping,200|185ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|125ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|123ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|131ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|122ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|136ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|113ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|123ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|119ms
+-> GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> GET /css/bootstrap-5.2.2/bootstrap.min.css
+-> GET /css/fontawesome-6.2.0/all.min.css
+-> GET /css/reg-am/login.min.css
+-> GET /css/ibkr/theme-ibkr-portal.min.css
+-> GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+-> GET /scripts/common/js/jquery-3.7.0/jquery.min.js
+<- 200 GET /css/bootstrap-5.2.2/bootstrap.min.css
+<- 200 GET /css/fontawesome-6.2.0/all.min.css
+-> GET /sso/lib/xyz.bundle.min.js
+<- 200 GET /css/reg-am/login.min.css
+-> GET /images/2015/btn-app-apple.png
+<- 200 GET /css/ibkr/theme-ibkr-portal.min.css
+<- 200 GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+<- 200 GET /scripts/common/js/jquery-3.7.0/jquery.min.js
+-> GET /images/2015/btn-app-google.png
+<- 200 GET /sso/lib/xyz.bundle.min.js
+<- 200 GET /images/2015/btn-app-apple.png
+-> GET /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/btn-app-google.png
+-> GET /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/button_discover_apis.png
+-> GET /images/common/logos/ibkr/interactive-brokers.svg
+-> GET /fonts/proxima-nova/Proxima-Nova-Light.woff2
+-> GET /fonts/proxima-nova/Proxima-Nova-Semibold.woff2
+-> GET /fonts/proxima-nova/Proxima-Nova-Regular.woff2
+-> GET /fonts/fontawesome-6.4.2/webfonts/fa-solid-900.woff2
+-> POST /portal.proxy/v1/gstat/bulletins
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Regular.woff2
+<- 200 GET /fonts/fontawesome-6.4.2/webfonts/fa-solid-900.woff2
+-> GET /sso/images/2fa-animated-once.gif
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Semibold.woff2
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Light.woff2
+<- 200 GET /images/common/logos/ibkr/interactive-brokers.svg
+<- 200 GET /sso/images/2fa-animated-once.gif
+<- 204 POST /portal.proxy/v1/gstat/bulletins
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> GET /sso/images/2fa-animated-once.gif?q=0.8601944839605704
+-> GET /fonts/proxima-nova/proximanova-extrabold.woff2
+<- 200 GET /fonts/proxima-nova/proximanova-extrabold.woff2
+<- 200 GET /sso/images/2fa-animated-once.gif?q=0.8601944839605704
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> GET /v1/api/sso/validate
+<- 401 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 401 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 401 GET /v1/api/portfolio/accounts
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> GET /css/bootstrap-5.2.2/bootstrap.min.css
+-> GET /css/reg-am/login.min.css
+-> GET /css/ibkr/theme-ibkr-portal.min.css
+-> GET /css/fontawesome-6.2.0/all.min.css
+-> GET /scripts/common/js/jquery-3.7.0/jquery.min.js
+-> GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+<- 200 GET /css/fontawesome-6.2.0/all.min.css
+<- 200 GET /css/bootstrap-5.2.2/bootstrap.min.css
+-> GET /sso/lib/xyz.bundle.min.js
+<- 304 GET /scripts/common/js/jquery-3.7.0/jquery.min.js
+<- 200 GET /css/reg-am/login.min.css
+<- 200 GET /css/ibkr/theme-ibkr-portal.min.css
+<- 200 GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+<- 304 GET /sso/lib/xyz.bundle.min.js
+-> POST /portal.proxy/v1/gstat/bulletins
+-> GET /sso/images/2fa-animated-once.gif
+-> GET /images/web/favicons/home-screen-icon-128x128.png
+<- 200 GET /sso/images/2fa-animated-once.gif
+<- 200 GET /images/web/favicons/home-screen-icon-128x128.png
+<- 204 POST /portal.proxy/v1/gstat/bulletins
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> GET /sso/images/2fa-animated-once.gif?q=0.860636964761665
+<- 200 GET /sso/images/2fa-animated-once.gif?q=0.860636964761665
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Dispatcher
+<- 302 POST /sso/Dispatcher
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,200|151ms
+-> request: /v1/api/one/user
+-> request: /v1/api/ssodh/init
+-> sso GET https://api.ibkr.com/v1/api/ssodh/init
+-> GET /v1/api/one/user,200|554ms
+-> request: /v1/api/ssodh/st
+-> sso GET https://api.ibkr.com/v1/api/ssodh/st
+-> request: /sso/Authenticator?ACTION=PUBLISH_TST&RESP_TYPE=JSON&DEVICE_ID=321b3646|5C-E9-1E-81-A5-86
+-> sso GET https://api.ibkr.com/sso/Authenticator?ACTION=PUBLISH_TST&RESP_TYPE=JSON&DEVICE_ID=321b3646|5C-E9-1E-81-A5-86
+<- 200 GET https://api.ibkr.com/sso/Authenticator?ACTION=PUBLISH_TST&RESP_TYPE=JSON&DEVICE_ID=321b3646|5C-E9-1E-81-A5-86 0
+-> request: /v1/api/iserver/auth/status
+-> GET /v1/api/iserver/auth/status,200|222ms
+-> request: /v1/api/iserver/auth/ssodh/init
+-> POST https://api.ibkr.com/v1/api/iserver/auth/ssodh/init,200|2442ms
+-> request: /v1/api/iserver/accounts
+-> GET /v1/api/iserver/accounts,200|117ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|120ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|135ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|140ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> POST /v1/api/iserver/account/U8494690/orders
+<- 200 POST /v1/api/iserver/account/U8494690/orders
+-> POST /v1/api/iserver/reply/6d482b1d-a4bd-419e-b4b1-5bd56b38e1a2
+<- 200 POST /v1/api/iserver/reply/6d482b1d-a4bd-419e-b4b1-5bd56b38e1a2
+-> POST /v1/api/iserver/reply/22856124-613e-4a91-ba84-2581d2f8f874
+<- 200 POST /v1/api/iserver/reply/22856124-613e-4a91-ba84-2581d2f8f874
+-> DELETE /v1/api/iserver/account/U8494690/order/1189185926
+<- 200 DELETE /v1/api/iserver/account/U8494690/order/1189185926
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|137ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> POST /v1/api/iserver/account/U8494690/orders
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|130ms
+<- 200 POST /v1/api/iserver/account/U8494690/orders
+-> POST /v1/api/iserver/reply/c96120f9-21fb-4fad-9fba-95b1fc0c503d
+<- 200 POST /v1/api/iserver/reply/c96120f9-21fb-4fad-9fba-95b1fc0c503d
+-> POST /v1/api/iserver/reply/0f1689dd-1c4d-4c5e-9b4c-52173e5fea72
+<- 200 POST /v1/api/iserver/reply/0f1689dd-1c4d-4c5e-9b4c-52173e5fea72
+-> DELETE /v1/api/iserver/account/U8494690/order/1189185927
+<- 200 DELETE /v1/api/iserver/account/U8494690/order/1189185927
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|141ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|133ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|121ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|630ms
+-> request: /sso/ping
+-> GET /sso/ping,200|130ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|152ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|119ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 401 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 500 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> GET /css/bootstrap-5.2.2/bootstrap.min.css
+-> GET /css/ibkr/theme-ibkr-portal.min.css
+-> GET /css/fontawesome-6.2.0/all.min.css
+-> GET /css/reg-am/login.min.css
+-> GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+-> GET /sso/lib/xyz.bundle.min.js
+<- 200 GET /css/bootstrap-5.2.2/bootstrap.min.css
+-> GET /scripts/common/js/jquery-3.7.0/jquery.min.js
+<- 200 GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+<- 200 GET /css/reg-am/login.min.css
+<- 200 GET /css/fontawesome-6.2.0/all.min.css
+<- 200 GET /css/ibkr/theme-ibkr-portal.min.css
+-> GET /images/2015/btn-app-apple.png
+<- 200 GET /sso/lib/xyz.bundle.min.js
+<- 200 GET /scripts/common/js/jquery-3.7.0/jquery.min.js
+-> GET /images/2015/btn-app-google.png
+<- 200 GET /images/2015/btn-app-apple.png
+-> GET /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/btn-app-google.png
+<- 200 GET /images/2015/btn-app-tws.png
+-> GET /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/button_discover_apis.png
+-> GET /images/common/logos/ibkr/interactive-brokers.svg
+-> GET /fonts/proxima-nova/Proxima-Nova-Light.woff2
+-> GET /fonts/fontawesome-6.4.2/webfonts/fa-solid-900.woff2
+-> GET /fonts/proxima-nova/Proxima-Nova-Regular.woff2
+-> GET /fonts/proxima-nova/Proxima-Nova-Semibold.woff2
+-> POST /portal.proxy/v1/gstat/bulletins
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Semibold.woff2
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Regular.woff2
+-> GET /sso/images/2fa-animated-once.gif
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Light.woff2
+<- 200 GET /images/common/logos/ibkr/interactive-brokers.svg
+<- 200 GET /fonts/fontawesome-6.4.2/webfonts/fa-solid-900.woff2
+<- 200 GET /sso/images/2fa-animated-once.gif
+<- 204 POST /portal.proxy/v1/gstat/bulletins
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> GET /sso/images/2fa-animated-once.gif?q=0.32379699620594793
+-> GET /fonts/proxima-nova/proximanova-extrabold.woff2
+<- 200 GET /fonts/proxima-nova/proximanova-extrabold.woff2
+<- 200 GET /sso/images/2fa-animated-once.gif?q=0.32379699620594793
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> GET /sso/images/2fa-animated-once.gif?q=0.2333877977813501
+<- 200 GET /sso/images/2fa-animated-once.gif?q=0.2333877977813501
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> GET /sso/images/2fa-animated-once.gif?q=0.1900844611443795
+<- 200 GET /sso/images/2fa-animated-once.gif?q=0.1900844611443795
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> GET /css/bootstrap-5.2.2/bootstrap.min.css
+<- 200 GET /css/bootstrap-5.2.2/bootstrap.min.css
+-> GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> GET /css/bootstrap-5.2.2/bootstrap.min.css
+-> GET /css/ibkr/theme-ibkr-portal.min.css
+-> GET /css/fontawesome-6.2.0/all.min.css
+-> GET /css/reg-am/login.min.css
+-> GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+-> GET /sso/lib/xyz.bundle.min.js
+<- 200 GET /css/bootstrap-5.2.2/bootstrap.min.css
+-> GET /scripts/common/js/jquery-3.7.0/jquery.min.js
+<- 200 GET /css/fontawesome-6.2.0/all.min.css
+<- 304 GET /sso/lib/xyz.bundle.min.js
+<- 200 GET /css/reg-am/login.min.css
+<- 200 GET /css/ibkr/theme-ibkr-portal.min.css
+<- 304 GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+<- 304 GET /scripts/common/js/jquery-3.7.0/jquery.min.js
+-> POST /portal.proxy/v1/gstat/bulletins
+-> GET /sso/images/2fa-animated-once.gif
+<- 200 GET /sso/images/2fa-animated-once.gif
+<- 204 POST /portal.proxy/v1/gstat/bulletins
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> GET /sso/images/2fa-animated-once.gif?q=0.23902081855418
+<- 200 GET /sso/images/2fa-animated-once.gif?q=0.23902081855418
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Dispatcher
+<- 302 POST /sso/Dispatcher
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,200|149ms
+-> request: /v1/api/one/user
+-> request: /v1/api/ssodh/init
+-> sso GET https://api.ibkr.com/v1/api/ssodh/init
+-> GET /v1/api/one/user,200|227ms
+-> request: /v1/api/ssodh/st
+-> sso GET https://api.ibkr.com/v1/api/ssodh/st
+-> request: /sso/Authenticator?ACTION=PUBLISH_TST&RESP_TYPE=JSON&DEVICE_ID=40c5560e|5C-E9-1E-81-A5-86
+-> sso GET https://api.ibkr.com/sso/Authenticator?ACTION=PUBLISH_TST&RESP_TYPE=JSON&DEVICE_ID=40c5560e|5C-E9-1E-81-A5-86
+<- 200 GET https://api.ibkr.com/sso/Authenticator?ACTION=PUBLISH_TST&RESP_TYPE=JSON&DEVICE_ID=40c5560e|5C-E9-1E-81-A5-86 0
+-> request: /v1/api/iserver/auth/status
+-> GET /v1/api/iserver/auth/status,200|120ms
+-> request: /v1/api/iserver/auth/ssodh/init
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 401 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 500 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> POST https://api.ibkr.com/v1/api/iserver/auth/ssodh/init,200|2513ms
+-> request: /v1/api/iserver/accounts
+-> GET /v1/api/iserver/accounts,200|116ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|133ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|122ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|148ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|136ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|178ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|119ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|121ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|120ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|133ms
+-> request: /sso/ping
+-> GET /sso/ping,200|147ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|140ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|127ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|119ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|120ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|145ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|120ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 401 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 500 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|136ms
+-> request: /v1/api/logout
+-> GET /v1/api/logout,200|134ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 400 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 400 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 400 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 400 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|121ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 400 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 400 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|127ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|125ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 400 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 400 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> request: /sso/ping
+-> GET /sso/ping,200|117ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|140ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 400 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 400 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 400 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 400 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 400 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 400 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 400 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 400 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 400 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 400 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|116ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 400 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 400 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|126ms
+-> GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> GET /css/bootstrap-5.2.2/bootstrap.min.css
+-> GET /css/ibkr/theme-ibkr-portal.min.css
+-> GET /css/fontawesome-6.2.0/all.min.css
+-> GET /css/reg-am/login.min.css
+-> GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+-> GET /sso/lib/xyz.bundle.min.js
+<- 200 GET /css/bootstrap-5.2.2/bootstrap.min.css
+<- 200 GET /css/fontawesome-6.2.0/all.min.css
+-> GET /scripts/common/js/jquery-3.7.0/jquery.min.js
+-> GET /images/2015/btn-app-apple.png
+<- 200 GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+<- 200 GET /scripts/common/js/jquery-3.7.0/jquery.min.js
+<- 200 GET /sso/lib/xyz.bundle.min.js
+-> GET /images/2015/btn-app-google.png
+<- 200 GET /css/ibkr/theme-ibkr-portal.min.css
+<- 200 GET /images/2015/btn-app-apple.png
+<- 200 GET /css/reg-am/login.min.css
+-> GET /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/btn-app-google.png
+-> GET /images/2015/button_discover_apis.png
+<- 200 GET /images/2015/btn-app-tws.png
+<- 200 GET /images/2015/button_discover_apis.png
+-> GET /images/common/logos/ibkr/interactive-brokers.svg
+-> GET /fonts/proxima-nova/Proxima-Nova-Light.woff2
+-> GET /fonts/proxima-nova/Proxima-Nova-Semibold.woff2
+-> GET /fonts/fontawesome-6.4.2/webfonts/fa-solid-900.woff2
+-> GET /fonts/proxima-nova/Proxima-Nova-Regular.woff2
+-> POST /portal.proxy/v1/gstat/bulletins
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Regular.woff2
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Light.woff2
+-> GET /sso/images/2fa-animated-once.gif
+<- 200 GET /fonts/proxima-nova/Proxima-Nova-Semibold.woff2
+<- 200 GET /fonts/fontawesome-6.4.2/webfonts/fa-solid-900.woff2
+<- 200 GET /images/common/logos/ibkr/interactive-brokers.svg
+<- 200 GET /sso/images/2fa-animated-once.gif
+<- 204 POST /portal.proxy/v1/gstat/bulletins
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> GET /sso/images/2fa-animated-once.gif?q=0.9782983914731587
+-> GET /fonts/proxima-nova/proximanova-extrabold.woff2
+<- 200 GET /fonts/proxima-nova/proximanova-extrabold.woff2
+<- 200 GET /sso/images/2fa-animated-once.gif?q=0.9782983914731587
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> GET /css/bootstrap-5.2.2/bootstrap.min.css
+-> GET /css/fontawesome-6.2.0/all.min.css
+-> GET /css/reg-am/login.min.css
+-> GET /css/ibkr/theme-ibkr-portal.min.css
+-> GET /scripts/common/js/jquery-3.7.0/jquery.min.js
+-> GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+<- 200 GET /css/bootstrap-5.2.2/bootstrap.min.css
+<- 200 GET /css/fontawesome-6.2.0/all.min.css
+-> GET /sso/lib/xyz.bundle.min.js
+<- 200 GET /css/reg-am/login.min.css
+<- 304 GET /scripts/common/js/bootstrap-5.2.2/bootstrap.bundle.min.js
+<- 200 GET /css/ibkr/theme-ibkr-portal.min.css
+<- 304 GET /sso/lib/xyz.bundle.min.js
+<- 304 GET /scripts/common/js/jquery-3.7.0/jquery.min.js
+-> POST /portal.proxy/v1/gstat/bulletins
+-> GET /sso/images/2fa-animated-once.gif
+<- 200 GET /sso/images/2fa-animated-once.gif
+<- 204 POST /portal.proxy/v1/gstat/bulletins
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> GET /sso/images/2fa-animated-once.gif?q=0.6648862295236542
+<- 200 GET /sso/images/2fa-animated-once.gif?q=0.6648862295236542
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Authenticator
+<- 200 POST /sso/Authenticator
+-> POST /sso/Dispatcher
+<- 302 POST /sso/Dispatcher
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,200|167ms
+-> request: /v1/api/one/user
+-> request: /v1/api/ssodh/init
+-> sso GET https://api.ibkr.com/v1/api/ssodh/init
+-> GET /v1/api/one/user,200|155ms
+-> request: /v1/api/ssodh/st
+-> sso GET https://api.ibkr.com/v1/api/ssodh/st
+-> request: /sso/Authenticator?ACTION=PUBLISH_TST&RESP_TYPE=JSON&DEVICE_ID=21b33fd6|5C-E9-1E-81-A5-86
+-> sso GET https://api.ibkr.com/sso/Authenticator?ACTION=PUBLISH_TST&RESP_TYPE=JSON&DEVICE_ID=21b33fd6|5C-E9-1E-81-A5-86
+<- 200 GET https://api.ibkr.com/sso/Authenticator?ACTION=PUBLISH_TST&RESP_TYPE=JSON&DEVICE_ID=21b33fd6|5C-E9-1E-81-A5-86 0
+-> request: /v1/api/iserver/auth/status
+-> GET /v1/api/iserver/auth/status,200|122ms
+-> request: /v1/api/iserver/auth/ssodh/init
+-> POST https://api.ibkr.com/v1/api/iserver/auth/ssodh/init,200|2943ms
+-> request: /v1/api/iserver/accounts
+-> GET /v1/api/iserver/accounts,200|124ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> POST /v1/api/iserver/account/U8494690/orders
+<- 200 POST /v1/api/iserver/account/U8494690/orders
+-> POST /v1/api/iserver/reply/411a8073-4c0e-440d-af79-165c9971a166
+<- 200 POST /v1/api/iserver/reply/411a8073-4c0e-440d-af79-165c9971a166
+-> POST /v1/api/iserver/reply/8e4f4c42-1a08-4b78-b0dd-78b6f6496a7a
+<- 200 POST /v1/api/iserver/reply/8e4f4c42-1a08-4b78-b0dd-78b6f6496a7a
+-> DELETE /v1/api/iserver/account/U8494690/order/1611674987
+<- 200 DELETE /v1/api/iserver/account/U8494690/order/1611674987
+-> POST /v1/api/iserver/account/U8494690/orders
+<- 200 POST /v1/api/iserver/account/U8494690/orders
+-> POST /v1/api/iserver/reply/56d7b38f-336b-4183-a98e-e2f725fdc5b8
+<- 200 POST /v1/api/iserver/reply/56d7b38f-336b-4183-a98e-e2f725fdc5b8
+-> POST /v1/api/iserver/reply/e1554f54-933b-4387-937a-4cdc2ab6724b
+<- 200 POST /v1/api/iserver/reply/e1554f54-933b-4387-937a-4cdc2ab6724b
+-> DELETE /v1/api/iserver/account/U8494690/order/1611674988
+<- 200 DELETE /v1/api/iserver/account/U8494690/order/1611674988
+-> POST /v1/api/iserver/account/U8494690/orders
+<- 200 POST /v1/api/iserver/account/U8494690/orders
+-> POST /v1/api/iserver/reply/ed29e0fa-c313-434a-bfe9-0e56da7cc103
+<- 200 POST /v1/api/iserver/reply/ed29e0fa-c313-434a-bfe9-0e56da7cc103
+-> POST /v1/api/iserver/reply/525ed667-0ac0-43ce-add7-3983a6140f89
+<- 200 POST /v1/api/iserver/reply/525ed667-0ac0-43ce-add7-3983a6140f89
+-> DELETE /v1/api/iserver/account/U8494690/order/1611674989
+<- 200 DELETE /v1/api/iserver/account/U8494690/order/1611674989
+-> POST /v1/api/iserver/account/U8494690/orders
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|119ms
+<- 200 POST /v1/api/iserver/account/U8494690/orders
+-> POST /v1/api/iserver/reply/7d1fa423-bdd2-4079-bfd1-2edeb9772d2a
+<- 200 POST /v1/api/iserver/reply/7d1fa423-bdd2-4079-bfd1-2edeb9772d2a
+-> POST /v1/api/iserver/reply/62cf32a9-75e1-4937-9a10-6321a65c98d3
+<- 200 POST /v1/api/iserver/reply/62cf32a9-75e1-4937-9a10-6321a65c98d3
+-> DELETE /v1/api/iserver/account/U8494690/order/1611674990
+<- 200 DELETE /v1/api/iserver/account/U8494690/order/1611674990
+-> POST /v1/api/iserver/account/U8494690/orders
+<- 200 POST /v1/api/iserver/account/U8494690/orders
+-> POST /v1/api/iserver/reply/df7d5a10-641e-4aed-be5b-57b387d6d9d5
+<- 200 POST /v1/api/iserver/reply/df7d5a10-641e-4aed-be5b-57b387d6d9d5
+-> POST /v1/api/iserver/reply/7574b038-3c9f-4e3f-b76f-8ce5080e660b
+<- 200 POST /v1/api/iserver/reply/7574b038-3c9f-4e3f-b76f-8ce5080e660b
+-> DELETE /v1/api/iserver/account/U8494690/order/1611674991
+<- 200 DELETE /v1/api/iserver/account/U8494690/order/1611674991
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|120ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|125ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|134ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|127ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|121ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|133ms
+-> GET /v1/api/sso/validate
+<- 200 GET /v1/api/sso/validate
+-> GET /v1/api/iserver/accounts
+<- 200 GET /v1/api/iserver/accounts
+-> GET /v1/api/portfolio/accounts
+<- 200 GET /v1/api/portfolio/accounts
+-> GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+<- 200 GET /v1/api/portfolio/U8494690/positions/0?direction=a&period=1W&sort=position&model=MyModel
+-> GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=265768&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=270662&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=29624264&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=45157951&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=199169591&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=136155102&fields=7289,7741
+-> GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+<- 200 GET /v1/api/iserver/marketdata/snapshot?conids=494162724&fields=7289,7741
+-> POST /v1/api/iserver/account/U8494690/orders
+<- 200 POST /v1/api/iserver/account/U8494690/orders
+-> POST /v1/api/iserver/reply/0c813a36-bd85-430a-a2b8-f6c96bd64dbb
+<- 200 POST /v1/api/iserver/reply/0c813a36-bd85-430a-a2b8-f6c96bd64dbb
+-> POST /v1/api/iserver/reply/8a6f33e8-9dc9-4a13-bdc7-eafef817ccd2
+<- 200 POST /v1/api/iserver/reply/8a6f33e8-9dc9-4a13-bdc7-eafef817ccd2
+-> POST /v1/api/iserver/account/U8494690/orders
+<- 200 POST /v1/api/iserver/account/U8494690/orders
+-> POST /v1/api/iserver/reply/24fc47da-26d7-4e21-9784-33451c1cc6f5
+<- 200 POST /v1/api/iserver/reply/24fc47da-26d7-4e21-9784-33451c1cc6f5
+-> POST /v1/api/iserver/reply/2801f892-082f-4bb9-b2a1-216436e7de10
+<- 200 POST /v1/api/iserver/reply/2801f892-082f-4bb9-b2a1-216436e7de10
+-> POST /v1/api/iserver/account/U8494690/orders
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|123ms
+<- 200 POST /v1/api/iserver/account/U8494690/orders
+-> POST /v1/api/iserver/reply/06d05b80-15ed-4129-9fd7-063a34b8c412
+<- 200 POST /v1/api/iserver/reply/06d05b80-15ed-4129-9fd7-063a34b8c412
+-> POST /v1/api/iserver/reply/6219974c-05f8-48b6-a247-62add8e5d448
+<- 200 POST /v1/api/iserver/reply/6219974c-05f8-48b6-a247-62add8e5d448
+-> POST /v1/api/iserver/account/U8494690/orders
+<- 200 POST /v1/api/iserver/account/U8494690/orders
+-> POST /v1/api/iserver/reply/e5ef1717-f14c-4358-8c98-f286cdfd7ba1
+<- 200 POST /v1/api/iserver/reply/e5ef1717-f14c-4358-8c98-f286cdfd7ba1
+-> POST /v1/api/iserver/reply/55f8d8fa-db89-44fc-826a-786f01ed843d
+<- 200 POST /v1/api/iserver/reply/55f8d8fa-db89-44fc-826a-786f01ed843d
+-> POST /v1/api/iserver/account/U8494690/orders
+<- 200 POST /v1/api/iserver/account/U8494690/orders
+-> POST /v1/api/iserver/reply/c1ddd710-1734-459f-8fa1-5e264cc9d5d3
+<- 200 POST /v1/api/iserver/reply/c1ddd710-1734-459f-8fa1-5e264cc9d5d3
+-> POST /v1/api/iserver/reply/b7ab56e0-eb17-40a8-8010-8ea229434381
+<- 200 POST /v1/api/iserver/reply/b7ab56e0-eb17-40a8-8010-8ea229434381
+-> DELETE /v1/api/iserver/account/U8494690/order/-1
+<- 200 DELETE /v1/api/iserver/account/U8494690/order/-1
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|120ms
+-> request: /sso/ping
+-> GET /sso/ping,200|148ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|538ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|155ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|114ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|136ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|222ms

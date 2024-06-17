@@ -1,8 +1,8 @@
 import requests
 import api_helper.ibkr_api as helper
 import warnings
-warnings.filterwarnings("ignore")
 
+warnings.filterwarnings("ignore")
 
 # Document : https://ibkrcampus.com/ibkr-api-page/cpapi-v1/#trades
 
@@ -21,11 +21,15 @@ if positions['positions'][0]['Market cap'] == '':
     print("Not getting market value yet, reload again")
     positions = helper.extract_details_from_positions_json(positions_json_array)
 
-gain = positions['total_market_value'] - positions['total_cost']
+helper.print_overview(positions)
 
-print(f"Total My list market value: ${positions['total_market_value']}")
-print(f"Total VOO market value: ${positions['VOO']['Market Value']}")
+# Set cost limit to each
+trade_limit = {
+    "ADBE": 30000,
+    "INTU": 30000,
+    "CRM": 30000,
+    "LULU": 10000,
+    "PYPL": 20000,
+    "SOFI": 10000}
 
-print("========================================================")
-print(f"Total gain/loss: {round(gain, 2)} ({round(gain / positions['total_cost'], 2)}%)")
-print(f"Market value ratio: {round(positions['total_market_value'] / positions['VOO']['Market Value'], 2)}")
+# helper.trade(account_id, positions, trade_limit)
