@@ -100,8 +100,9 @@ def print_overview(positions):
     print(f"Total VOO market value: ${positions['VOO']['Market Value']}")
 
     print("========================================================")
-    print(f"Total gain/loss: {round(gain, 2)} ({round(gain / positions['total_cost'], 2)}%)")
-    print(f"Daily gain/loss: {round(daily_gain, 2)} ({round(daily_gain / positions['total_open_market_value'], 2)}%)")
+    print(f"Total gain/loss: {round(gain, 2)} ({round(100 * gain / positions['total_cost'], 2)}%)")
+    print(
+        f"Daily gain/loss: {round(daily_gain, 2)} ({round(100 * daily_gain / positions['total_open_market_value'], 2)}%)")
     print(f"Market value ratio: {round(positions['total_market_value'] / positions['VOO']['Market Value'], 2)}")
 
 
@@ -113,8 +114,11 @@ def trade(account_id, positions, trade_limit):
         ticker = position['Name']
         limit = trade_limit[ticker]
         cost = position['Total cost']
+        marketValue = position['Market Value']
 
-        if cost <= limit:
+        qualifiedToTrade = cost <= limit or limit - marketValue >= 500
+
+        if qualifiedToTrade:
             request_url = f"{baseUrl}/iserver/account/{account_id}/orders"
             json_content = {
                 "orders": [

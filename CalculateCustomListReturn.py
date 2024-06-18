@@ -33,3 +33,5 @@ trade_limit = {
     "SOFI": 10000}
 
 # helper.trade(account_id, positions, trade_limit)
+
+# helper.cancel_all_open_orders(account_id)
